@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rmatix | voxmatrixstudios</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style>
+        :root {
+            --neon-cyan: #00FFFF;
+            --neon-magenta: #FF00FF;
+            --dark-bg: #0a0a0a;
+        }
+        body {
+            background-color: var(--dark-bg);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            overflow-x: hidden;
+        }
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://w.wallhaven.cc/full/85/wallhaven-85m76y.jpg');
+            background-size: cover;
+            text-align: center;
+        }
+        .neon-text {
+            color: var(--neon-cyan);
+            text-shadow: 0 0 10px var(--neon-cyan), 0 0 20px var(--neon-cyan);
+            font-size: 4rem;
+            margin: 0;
+        }
+        .subtitle {
+            color: var(--neon-magenta);
+            font-size: 1.5rem;
+            letter-spacing: 5px;
+            text-transform: uppercase;
+        }
+        .container { padding: 50px 10% ; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--neon-magenta);
+            padding: 20px;
+            border-radius: 10px;
+            transition: transform 0.3s;
+        }
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 0 20px var(--neon-magenta);
+        }
+        .btn-contact {
+            margin-top: 30px;
+            padding: 15px 30px;
+            border: 2px solid var(--neon-cyan);
+            color: var(--neon-cyan);
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .btn-contact:hover {
+            background: var(--neon-cyan);
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1 class="neon-text animate__animated animate__fadeInDown">Rmatix</h1>
+        <p class="subtitle animate__animated animate__fadeInUp animate__delay-1s">voxmatrixstudios</p>
+        <a href="https://wa.me/573238229839" class="btn-contact animate__animated animate__pulse animate__infinite">Contactar / Contact Me</a>
+    </div>
+
+    <div class="container">
+        <h2 style="border-bottom: 2px solid var(--neon-cyan); display: inline-block;">Especialidades / Expertise</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Roblox Full-Cycle</h3>
+                <p>Building, UI Design, and Advanced Scripting (Lua).</p>
+            </div>
+            <div class="card">
+                <h3>Game Logic</h3>
+                <p>Pure code and systems in Godot & Unity.</p>
+            </div>
+            <div class="card">
+                <h3>Automation</h3>
+                <p>Node.js & SQL backend tools.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
