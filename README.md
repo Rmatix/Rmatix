@@ -18,7 +18,7 @@
 ---
 
 ### 🕹️ Proyectos en Desarrollo
-* **Caos Geométrico (Godot/Unity):** Un reto de precisión con estética neon y mecánicas de plataformas avanzadas.
+* **Caos Geométrico (Roblox):** Un reto de precisión con estética neon y mecánicas de plataformas avanzadas.
 * **Proyectos Roblox:** Creación de sistemas modulares y monetización para experiencias masivas.
 * **Automatización:** Desarrollo de herramientas en Node.js para gestión de comunidades y estudios de videojuegos.
 
