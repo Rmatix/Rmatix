@@ -21,7 +21,7 @@
 
 #### 🤖 Godot & Unity (Code & Logic)
 * **Godot Engine:** Dominio de GDScript enfocado en mecánicas de jugador, físicas, integración de *triggers* y lógica de sistemas. (Motor principal).
-* **Unity:** Scripting en C# para la interacción de objetos y flujo de juego.
+* **Unity:** Scripting en C# para la interacción de objetos y flujo de juego.(principiante)
 
 ---
 
@@ -37,7 +37,7 @@
 ---
 
 ### 🕹️ Proyectos Destacados / Featured Projects
-* **Caos Geométrico:** * *[ES]* Reto de plataformas y precisión (inspirado en Geometry Dash) con estética futurista.
+* **Caos Geométrico:** * *[ES]* Reto de plataformas y precisión con estética futurista.(primer juego)
   * *[EN]* Precision platforming challenge with futuristic aesthetics.
 * **Sistemas Modulares (Roblox):** * *[ES]* Interfaces de usuario y sistemas escalables para estudios de desarrollo.
   * *[EN]* User interfaces and scalable systems for development studios.
