@@ -19,12 +19,12 @@
 
 > *"Transformando geometría en experiencias digitales."*
 
-Soy **Rmatix**, Game Developer versátil, creador de herramientas de software y fundador de **[voxmatrixstudios](https://youtube.com/@voxmatrixstudios)** y co-fundador de **Alchematrix Studios**. Me especializo en el ciclo completo de desarrollo de videojuegos, con un enfoque técnico avanzado en automatización, IA local e infraestructura de software.
+Soy **Rmatix**, Game Developer versátil, creador de herramientas de software y fundador de **[VoxMatrix Studios](https://youtube.com/@voxmatrixstudios)** y co-fundador de **Alchematrix Studios**. Me especializo en el ciclo completo de desarrollo de videojuegos, con un enfoque técnico avanzado en automatización, IA local e infraestructura de software.
 
 - 🌍 Basado en **Colombia**
 - 🔭 Actualmente construyendo **[Cipher Code Editor](https://github.com/Rmatix/cipher)** — un editor open source con agente IA multi-modelo
 - 🎮 Desarrollando **Fading Colors**, horror psicológico en Roblox
-- 🎵 Compositor de bandas sonoras originales con derechos registrados ante los **creative commons**
+- 🎵 Compositor de bandas sonoras originales con derechos registrados ante la **DNDA**
 - 🤖 Apasionado por la **IA local** y los flujos de trabajo autónomos
 
 ---
@@ -36,7 +36,7 @@ Soy **Rmatix**, Game Developer versátil, creador de herramientas de software y 
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,13 +65,13 @@ Un editor diseñado para el futuro del desarrollo. Integra un agente de IA multi
 ### 🌑 Fading Colors *(Privado)*
 > Horror Psicológico · Roblox Studio · En desarrollo
 
-Proyecto independiente de horror psicológico con un profundo desarrollo narrativo en colaboración con **Hans Díaz**, cinemáticas complejas y una interfaz de usuario de enfoque cinematográfico. Una experiencia que desafía los límites de lo que Roblox puede contar.
+Proyecto independiente de horror psicológico con un profundo desarrollo narrativo en colaboración con **Hans Díaz**, cinemáticas complejas y una interfaz de usuario con enfoque cinematográfico. Una experiencia que desafía los límites de lo que Roblox puede contar.
 
 `Roblox Studio` `Lua` `UI/UX Cinematográfico` `Narrativa`
 
 ---
 
-### 🏢 voxmatrixstudios & Alchematrix Studios
+### 🏢 VoxMatrix Studios & Alchematrix Studios
 > Estudios Independientes · Fundador & Co-fundador
 
 Mi estudio de desarrollo independiente, enfocado en fusionar mecánicas sólidas con una dirección de arte excepcional. Alchematrix Studios existe para dar vida a colaboraciones de mayor escala.
@@ -92,29 +92,27 @@ Mi estudio de desarrollo independiente, enfocado en fusionar mecánicas sólidas
 | 🌐 **Web Frontend** | HTML5 semántico, CSS3 puro (Glassmorphism, Grid, Flexbox), Vanilla JS |
 
 ---
----
 
 ## 💖 Apoya mi Trabajo
 
 Si usas **Cipher**, juegas a mis proyectos independientes o disfrutas de la música que compongo, considera apoyarme para seguir manteniendo el desarrollo de código abierto y experiencias de videojuegos.
 
 <p align="center">
-  <a href="https://patreon.com/Rmatix?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/Patreon-Suscripción_Mensual-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://patreon.com/Rmatix"><img src="https://img.shields.io/badge/Patreon-Suscripción_Mensual-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
   <a href="https://ko-fi.com/rmatix"><img src="https://img.shields.io/badge/Ko--Fi-Donación_Única-00AFF0?style=for-the-badge&logo=kofi&logoColor=white" /></a>
 </p>
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rmatix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmatix&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rmatix&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmatix&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmatix&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmatix&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -127,17 +125,17 @@ Construido con un enfoque **ligero y de alto rendimiento**, sin frameworks pesad
 - **CSS3** puro — animaciones, Glassmorphism, CSS Grid y Flexbox
 - **JavaScript Vanilla** — fetch dinámico a la API de GitHub y motor propio de partículas para el fondo animado
 
-🔗 **[Ver portafolio en vivo](https://rmatix.github.io/)** *(actualiza el enlace al activar GitHub Pages)*
+🔗 **[Ver portafolio en vivo](https://rmatix.github.io/)**
 
 <details>
 <summary>⚙️ Cómo ejecutar localmente</summary>
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/Rmatix/tu-nombre-de-repo.git
+git clone https://github.com/Rmatix/Rmatix.git
 
 # 2. Entra a la carpeta
-cd tu-nombre-de-repo
+cd Rmatix
 
 # 3. Abre index.html en tu navegador
 # (o usa Live Server en VS Code)
@@ -167,5 +165,6 @@ cd tu-nombre-de-repo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
 </p>
+
 
 <p align="center">Hecho con 💜 y código abierto por <strong>Rmatix</strong></p>
