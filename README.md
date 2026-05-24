@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rmatix&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Game%20Developer%20%26%20Software%20Engineer&descAlignY=75&descAlign=50&descSize=22&descColor=cccccc" />
+  <img src="assets/banner.svg" width="100%" alt="Rmatix Banner" />
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ cd Rmatix
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" />
+  <img src="assets/banner-footer.svg" width="100%" alt="footer" />
 </p>
 
 <p align="center">Hecho con 💜 y código abierto por <strong>Rmatix</strong></p>
