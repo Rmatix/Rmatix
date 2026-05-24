@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0533;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6e40c9" />
+      <stop offset="50%" style="stop-color:#a855f7" />
+      <stop offset="100%" style="stop-color:#3b82f6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#grad)" />
+
+  <!-- Wave top -->
+  <path d="M0,0 C150,60 300,0 450,40 C600,80 750,20 900,50 L900,0 Z" fill="url(#wave1)" opacity="0.35"/>
+  <path d="M0,0 C200,40 400,10 600,35 C750,55 850,15 900,25 L900,0 Z" fill="url(#wave1)" opacity="0.2"/>
+
+  <!-- Wave bottom -->
+  <path d="M0,220 C150,170 300,210 450,185 C600,160 750,200 900,175 L900,220 Z" fill="url(#wave1)" opacity="0.35"/>
+  <path d="M0,220 C200,185 400,215 600,190 C750,170 850,205 900,195 L900,220 Z" fill="url(#wave1)" opacity="0.2"/>
+
+  <!-- Text: Rmatix -->
+  <text x="450" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="bold"
+        fill="white" text-anchor="middle" opacity="0.97">Rmatix</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="152" font-family="'Segoe UI', Arial, sans-serif" font-size="20"
+        fill="#cccccc" text-anchor="middle" opacity="0.85">Game Developer &amp; Software Engineer</text>
+</svg>
