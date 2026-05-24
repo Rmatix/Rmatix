@@ -107,12 +107,12 @@ Si usas **Cipher**, juegas a mis proyectos independientes o disfrutas de la mús
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rmatix&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmatix&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rmatix&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rmatix&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rmatix&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Rmatix&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
