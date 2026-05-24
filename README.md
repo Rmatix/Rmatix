@@ -92,6 +92,19 @@ Mi estudio de desarrollo independiente, enfocado en fusionar mecánicas sólidas
 | 🌐 **Web Frontend** | HTML5 semántico, CSS3 puro (Glassmorphism, Grid, Flexbox), Vanilla JS |
 
 ---
+---
+
+## 💖 Apoya mi Trabajo
+
+Si usas **Cipher**, juegas a mis proyectos independientes o disfrutas de la música que compongo, considera apoyarme para seguir manteniendo el desarrollo de código abierto y experiencias de videojuegos.
+
+<p align="center">
+  <a href="https://patreon.com/Rmatix?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"><img src="https://img.shields.io/badge/Patreon-Suscripción_Mensual-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://ko-fi.com/rmatix"><img src="https://img.shields.io/badge/Ko--Fi-Donación_Única-00AFF0?style=for-the-badge&logo=kofi&logoColor=white" /></a>
+</p>
+
+---
+
 
 ## 📊 GitHub Stats
 
