@@ -24,7 +24,7 @@ Soy **Rmatix**, Game Developer versátil, creador de herramientas de software y 
 - 🌍 Basado en **Colombia**
 - 🔭 Actualmente construyendo **[Cipher Code Editor](https://github.com/Rmatix/cipher)** — un editor open source con agente IA multi-modelo
 - 🎮 Desarrollando **Fading Colors**, horror psicológico en Roblox
-- 🎵 Compositor de bandas sonoras originales con derechos registrados ante la **DNDA**
+- 🎵 Compositor de bandas sonoras originales con derechos registrados **Creative commons**
 - 🤖 Apasionado por la **IA local** y los flujos de trabajo autónomos
 
 ---
