@@ -88,7 +88,7 @@ Mi estudio de desarrollo independiente, enfocado en fusionar mecánicas sólidas
 | 🎮 **Game Development** | Full-Cycle en Roblox (Lua, UI/UX, DataStores, Monetización), Godot Engine y Unity (C#) |
 | ⚙️ **Backend & CI/CD** | APIs con Node.js + Express + SQL, despliegues automáticos con GitHub Actions |
 | 🤝 **Liderazgo de Equipos** | Formación SENA en Comunicación en Equipos de Trabajo; gestión de estudios independientes |
-| 🎵 **Propiedad Intelectual** | Bandas sonoras originales (8-bit, horror, ambiental) con derechos registrados ante la **DNDA** |
+| 🎵 **Propiedad Intelectual** | Bandas sonoras originales (8-bit, horror, ambiental) bajo la licencia**Creative Commons** |
 | 🌐 **Web Frontend** | HTML5 semántico, CSS3 puro (Glassmorphism, Grid, Flexbox), Vanilla JS |
 
 ---
